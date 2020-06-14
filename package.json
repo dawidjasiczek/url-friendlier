@@ -1,0 +1,22 @@
+{
+  "name": "@dawidjasiczek/url-friendlier",
+  "version": "1.0.0",
+  "description": "make string url-friendly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawidjasiczek/url-friendlier.git"
+  },
+  "keywords": [
+    "url-friendlier"
+  ],
+  "author": "Dawid Jasiczek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dawidjasiczek/url-friendlier/issues"
+  },
+  "homepage": "https://github.com/dawidjasiczek/url-friendlier#readme"
+}
