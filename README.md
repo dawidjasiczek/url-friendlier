@@ -20,7 +20,7 @@ let sc = "   . Special polish ąóź and ggerman öæß characters             -
 
 console.log("String before change: ", sc ,"\n") 
 console.log("String after change:", uF.friendly(sc),"\n")
-console.log("String after change, skip special chars:", uF.friendly(sc, true),"\n")
+console.log("String after change, skipped special chars:", uF.friendly(sc, true),"\n")
 ```
 
 **Example output:**
