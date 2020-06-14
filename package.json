@@ -1,6 +1,6 @@
 {
   "name": "@dawidjasiczek/url-friendlier",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "make string url-friendly",
   "main": "index.js",
   "scripts": {
