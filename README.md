@@ -22,7 +22,7 @@ console.log("String after change:", uF.friendly(sc),"\n")
 console.log("String after change, skip special chars:", uF.friendly(sc, true),"\n")
 ```
 
-**Output:**
+**Example output:**
 ```sh
 String before change:     . Special polish ąóź and ggerman öæß characters             ------hello 
 String after change: -special-polish-aoz-and-ggerman-oeaess-characters-hello 
