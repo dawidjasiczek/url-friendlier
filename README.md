@@ -1,6 +1,7 @@
 # url-friendlier
-make string url-friendly
 [![version](https://img.shields.io/badge/version-2.0.3-green.svg)](https://www.npmjs.com/package/@dawidjasiczek/url-friendlier)
+
+Make your string url friendly.
 
 ## Instalation
 ```js
